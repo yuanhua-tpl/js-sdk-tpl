@@ -1,0 +1,8 @@
+.DS_Store
+.babelrc
+.git/
+.gitignore
+.npmignore
+config/
+src/
+node_modules/

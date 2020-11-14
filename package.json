@@ -1,0 +1,8 @@
+{
+  "name": "js-library-tpl",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "@yuanhua/cli 下载的JS SDK模板库（基于模板语言开发）",
+  "scripts": {
+  }
+}
