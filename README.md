@@ -9,7 +9,7 @@
 
 ``` bash
 $ npm install -g @yuanhua/cli
-$ yh init js-sdk-tpl my-project
+$ yh creat js-sdk-tpl my-project
 $ cd my-project
 $ npm install
 $ npm run build
